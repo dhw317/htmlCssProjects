@@ -1,0 +1,14 @@
+.div-class {
+    background-color: lightgrey;
+}
+
+.div-class h1 {
+    font-size: 18px;
+}
+
+/* All the p tags within the div-class should be orange and 16px*/
+
+.div-class p {
+    color: blue;
+    font-size: 16px;
+}

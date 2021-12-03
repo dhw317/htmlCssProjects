@@ -1,0 +1,10 @@
+/* This code changes the background color */
+body {
+    background-color: #d3d3d3;
+}
+
+/* This gives my div a red border */
+div {
+    border: 10px solid red;
+    padding: 10px;
+}
